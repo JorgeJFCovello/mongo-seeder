@@ -1,0 +1,7 @@
+{
+    "uri":"mongodb://root:root@localhost:27017",
+    "collections":["collectionJsFile"],
+    "folder":"folderWhereJsFileIs",
+    "tlsCAFile":"folderToTlsCAFile",
+    "schema":"yourSchemaName"
+}
